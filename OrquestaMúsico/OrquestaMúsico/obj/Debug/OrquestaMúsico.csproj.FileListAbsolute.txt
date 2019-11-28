@@ -1,0 +1,7 @@
+C:\Users\alumno\Desktop\Cortes Misael Orquesta Musico proyecto\OrquestaMúsico\OrquestaMúsico\bin\Debug\OrquestaMúsico.exe.config
+C:\Users\alumno\Desktop\Cortes Misael Orquesta Musico proyecto\OrquestaMúsico\OrquestaMúsico\bin\Debug\OrquestaMúsico.exe
+C:\Users\alumno\Desktop\Cortes Misael Orquesta Musico proyecto\OrquestaMúsico\OrquestaMúsico\bin\Debug\OrquestaMúsico.pdb
+C:\Users\alumno\Desktop\Cortes Misael Orquesta Musico proyecto\OrquestaMúsico\OrquestaMúsico\obj\Debug\OrquestaMúsico.csprojAssemblyReference.cache
+C:\Users\alumno\Desktop\Cortes Misael Orquesta Musico proyecto\OrquestaMúsico\OrquestaMúsico\obj\Debug\OrquestaMúsico.csproj.CoreCompileInputs.cache
+C:\Users\alumno\Desktop\Cortes Misael Orquesta Musico proyecto\OrquestaMúsico\OrquestaMúsico\obj\Debug\OrquestaMúsico.exe
+C:\Users\alumno\Desktop\Cortes Misael Orquesta Musico proyecto\OrquestaMúsico\OrquestaMúsico\obj\Debug\OrquestaMúsico.pdb
